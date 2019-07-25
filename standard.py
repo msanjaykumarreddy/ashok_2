@@ -18,7 +18,7 @@ class Standardmathemeticaloperations:
         :return:
         """
         result_add = self.a + self.b
-        # print("result_add :",result_add)
+        print("result_add :",result_add)
         return result_add
 
     def multiplication(self):
@@ -27,7 +27,7 @@ class Standardmathemeticaloperations:
         :return:
         """
         result_mul = self.a * self.b
-        # print("Multiplication :",result_mul)
+        print("Multiplication :",result_mul)
         return result_mul
 
     def division(self):
@@ -36,7 +36,7 @@ class Standardmathemeticaloperations:
         :return:
         """
         result_div = self.a / self.b
-        # print("Division :",result_div)
+        print("Division :",result_div)
         return result_div
 
     def substraction(self):
@@ -45,7 +45,7 @@ class Standardmathemeticaloperations:
         :return:
         """
         result_sub = self.a - self.b
-        # print("Substarction :",result_sub)
+        print("Substarction :",result_sub)
         return result_sub
 
 
