@@ -48,11 +48,9 @@ class Standardmathemeticaloperations:
         print("Substarction :",result_sub)
         return result_sub
 
-
-"""
-    obj=Standardmathemeticaloperations(27,2)
-    obj.addition()
-    obj.multiplication()
-    obj.division()
-    obj.substraction()
-  """
+obj=Standardmathemeticaloperations(27,2)
+obj.addition()
+obj.multiplication()
+obj.division()
+obj.substraction()
+  
